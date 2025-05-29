@@ -11,6 +11,9 @@ This is a full-stack web application designed to digitalize the food ordering ex
 - Place orders.
 
 
+## 🚀 Documents
+- Project ppt and pdf are available.
+
 ## 🚀 Tech Stack
 
 | Layer         | Technology               |
@@ -18,7 +21,7 @@ This is a full-stack web application designed to digitalize the food ordering ex
 | Frontend     | React.js, CSS, Axios     |
 | Backend      | Node.js, Express.js      |
 | Database     | MongoDB (Mongoose ODM)   |
-| Authentication | JWT, bcryptjs          |
+| Authentication | Firebase         |
 | API Testing  | Postman                  |
 | Version Control | Git, GitHub           |
 
@@ -41,5 +44,9 @@ Restaurant-E-Commerce-Website-main/
 │   ├── server.js
 │   └── .env
 │
+├── Docs                 # Documents
+│   ├── E- Restaurant Application Presentation_Akash_O23MCA110008
+│   ├──MCA_Major_Project_Akash_Pathania_O23MCA110008
 └── README.md
+
 
